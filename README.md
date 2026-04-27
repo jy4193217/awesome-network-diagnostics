@@ -172,6 +172,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://img.shields.io/badge/license-CC0--1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is maintained by the team at [BiuPing](https://www.biuping.com). To the extent possible under law, contributors have waived all copyright and related rights.
