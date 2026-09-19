@@ -88,6 +88,7 @@ Identifying whether an IP is residential, datacenter, proxy, VPN, or Tor exit â€
 - [MaxMind GeoLite2](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data) - Free geolocation database.
 - [Team Cymru IP-to-ASN](https://team-cymru.com/community-services/ip-asn-mapping/) - Free ASN lookup service.
 - [BGP.tools](https://bgp.tools/) - Public BGP routing table exploration.
+- [XiuStore AI IP Check](https://store.xiu.ai/en/ai-ip/) - Compare the exit IPs seen by Claude, ChatGPT, Grok, Perplexity, and Cloudflare, with a separate WebRTC check.
 
 **Try it online**: [BiuPing IP Reputation](https://www.biuping.com/ip_reputation/) (proxy/VPN/datacenter detection with risk scoring)
 
