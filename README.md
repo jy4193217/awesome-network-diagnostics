@@ -113,6 +113,7 @@ Read-only access to BGP routers operated by ISPs and IXPs. Indispensable for cro
 
 - [ss](https://man7.org/linux/man-pages/man8/ss.8.html) - Modern replacement for netstat.
 - [iperf3](https://github.com/esnet/iperf) - TCP/UDP bandwidth measurement.
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) - Mac network diagnostics with host checks and JSON output.
 - [nmap](https://nmap.org/) - Port scanning and service detection.
 - [tcptraceroute](http://michael.toren.net/code/tcptraceroute/) - Traceroute over TCP, gets through ICMP-filtered networks.
 - [arp-scan](https://github.com/royhills/arp-scan) - L2 host discovery.
