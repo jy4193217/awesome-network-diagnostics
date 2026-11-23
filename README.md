@@ -32,6 +32,7 @@ Multi-node platforms that run network tests from servers around the world. Usefu
 - [CA App Synthetic Monitor](https://asm.ca.com/en/checkit.php) - Free public website checker from CA Technologies.
 - [GTmetrix](https://gtmetrix.com) - Website performance with waterfall analysis.
 - [DNSChecker](https://dnschecker.org) - Global DNS propagation checker.
+- [ZoneBI](https://zonebi.com/en/?src=github-network-diagnostics-en-01) - Checks a domain from Tokyo, Frankfurt, New York and Singapore: uptime, DNS, SSL certificate, domain expiry and SPF/DKIM/DMARC. The first check needs no sign-up.
 
 ## Ping & ICMP
 
